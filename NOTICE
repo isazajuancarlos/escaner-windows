@@ -1,0 +1,12 @@
+escaner-windows
+Copyright (c) 2026 Juan Carlos Isaza
+
+Todos los derechos reservados.
+SPDX-License-Identifier: LicenseRef-Propietario
+
+Auditor de seguridad de SOLO LECTURA para Windows 11: mide la postura de
+seguridad (Defender, firewall, BitLocker, UAC, exposicion remota, cuentas) y
+caza persistencia/anomalias (autoruns firmados, tareas, servicios, suscripciones
+WMI permanentes, red, hosts). Herramienta de seguridad DEFENSIVA sobre la propia
+maquina; no es un antivirus ni un forense completo. Hermano Windows de
+escaner-android y de endurecer-debian-local.sh --check.

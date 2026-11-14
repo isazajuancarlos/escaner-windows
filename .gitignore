@@ -1,0 +1,9 @@
+# Informes del escaneo (postura de seguridad de la maquina; dato sensible, NO versionar)
+volcado-*/
+
+# Transcripciones de conversaciones (no versionar)
+conversaciones/
+
+# Tripwire: config y manifiesto son locales a la maquina (rutas + hashes)
+tripwire.txt
+tripwire-manifiesto.json
